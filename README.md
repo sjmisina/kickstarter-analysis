@@ -12,12 +12,10 @@ Data analysis includes:
 
 ## Executive Summary
 
-![Success by start date]
+![Success by start date](https://github.com/sjmisina/kickstarter-analysis/blob/main/SuccessBasedOnStartDate.png)
 
 ![Parent Category Outcomes](https://github.com/sjmisina/kickstarter-analysis/blob/main/Parent_Category_Outcomes.png)
 
 ![Descriptive Analysis](https://github.com/sjmisina/kickstarter-analysis/blob/main/Descriptive_Analysis.png)
-
-
 
 ![Musicals Kickstarter in Great Britain](https://github.com/sjmisina/kickstarter-analysis/blob/main/MusicalsKickstartersInGB.png)
