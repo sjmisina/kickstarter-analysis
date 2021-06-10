@@ -12,7 +12,7 @@ Data analysis includes:
 
 ## Executive Summary
 
-![Success by Start Date]
+![Success by Start Date](https://github.com/sjmisina/kickstarter-analysis/blob/main/SuccessByStartDate.png)
 
 ![Parent Category Outcomes](https://github.com/sjmisina/kickstarter-analysis/blob/main/Parent_Category_Outcomes.png)
 
