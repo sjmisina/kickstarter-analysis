@@ -28,5 +28,6 @@ Provide data analysis for upcoming Kickstarter project. Client wants to consider
 - Analysis determines that client's best chance at project funding success is to launch a Kickstarter in May with a target funding level of less than $5000
 - Alternative months that could be considered for considerable success rates are projects launched in June and July
 - Success rates are stongest for projects with a target of less than $5000
-- Although there are strong success rates found between $35,000 and $45,000, the sample size is very small, and therefore not considered a reliable trend
+- Although there are strong success rates found between $35,000 and $45,000, the sample size is very small, so not considered a reliable trend
+
 ###
