@@ -11,7 +11,7 @@ Provide data analysis for upcoming Kickstarter project. Client wants to consider
 - Data for 2018-2020 could effect results; however, this sample size is appropriate to determine general trends
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes Based on Launch Date](https://github.com/sjmisina/module1/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 - Y-axis is number of Kickstarter projects of Theater&Plays subcategory
 - X-axis is month of Kickstarter Launch
 
