@@ -12,13 +12,13 @@ Provide data analysis for upcoming Kickstarter project. Client wants to consider
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater Outcomes Based on Launch Date](https://github.com/sjmisina/module1/blob/main/Theater_Outcomes_vs_Launch.png)
-Y-axis is for number of Kickstarter projects of Theater&Plays subcategory
-X-axis is for month of Kickstarter Launch
+- Y-axis is number of Kickstarter projects of Theater&Plays subcategory
+- X-axis is month of Kickstarter Launch
 
 ### Analysis of Outcomes Based on Goals
 ![Theater Outcomes vs Goals](https://github.com/sjmisina/module1/blob/main/Outcomes_vs_Goals.png)
-Y-axis is percentage of successful, Failed, and Canceled Kickstarter projects of total projects in available date range
-X-axis illustrates the different tiers of the goal set for the kickstarter projects
+- Y-axis is percentage of successful, Failed, and Canceled Kickstarter projects of total projects in available date range
+- X-axis illustrates the different tiers of the goal set for the kickstarter projects
 
 ### Challenges and Difficulties Encountered
 - Data provided requires complex parsing and calculation to effectively sort and identify trends to be provided in this analysis
