@@ -1,21 +1,28 @@
-# An Analysis of Kickstarter Campaigns.
-Performing analysis on US Kickstarter plays data to uncover trends for proposed plays campaign for funding.
-As our client was inspired by five plays seen at the Edinburgh Festival Fringe, included analysis of those Kickstarter campaigns.
+# Kickstarting with Excel
 
-Data as provided by Kickstarter.
+## Overview of Project
+Client is considering Kickstarter to fund an upcoming theatrical play. Based on key data provided by Kickstarter, analysis needs to be performed to help identify the project's best chance at success.
 
-Data analysis includes:
-- US category comparison across all parent categories highlighting outcomes
-- Comparison of plays campaigns that were successful to those that failed
-- Analysis provided showing Goal, Pledged, Average Donation, and Number of Backers
-- Musicals in Great Britain per the client's request.
+### Purpose
+Provide data analysis for upcoming Kickstarter project. Client wants to consider an appropriate start date and funding levels to determine best success rate.
 
-## Executive Summary
+## Analysis and Challenges
+- Kickstarter data provided is from 2009-2017
+- Data for 2018-2020 could effect results; however, this sample size is appropriate to determine general trends
 
-![Success by Start Date](https://github.com/sjmisina/kickstarter-analysis/blob/main/SuccessByStartDate.png)
+### Analysis of Outcomes Based on Launch Date
+![Theater Outcomes Based on Launch Date](https://github.com/sjmisina/module1/blob/main/Theater_Outcomes_vs_Launch.png)
 
-![Parent Category Outcomes](https://github.com/sjmisina/kickstarter-analysis/blob/main/Parent_Category_Outcomes.png)
+### Analysis of Outcomes Based on Goals
+![Theater Outcomes vs Goals](https://github.com/sjmisina/module1/blob/main/Outcomes_vs_Goals.png)
 
-![Descriptive Analysis](https://github.com/sjmisina/kickstarter-analysis/blob/main/Descriptive_Analysis.png)
+### Challenges and Difficulties Encountered
+- Data provided requires complex parsing and calculation to effectively sort and identify trends to be provided in this analysis
+- Launch date data determined by pivot table built by analyst
 
-![Musicals Kickstarter in Great Britain](https://github.com/sjmisina/kickstarter-analysis/blob/main/MusicalsKickstartersInGB.png)
+## Results
+- Analysis determines that client's best chance at project funding success is to launch a Kickstarter in May with a target funding level of less than $5000
+- Alternative months that could be considered for considerable success rates are projects launched in June and July
+- Success rates are stongest for projects with a target of less than $5000
+- Although there are strong success rates found between $35,000 and $45,000, the sample size is very small, and therefore not considered a reliable trend
+###
