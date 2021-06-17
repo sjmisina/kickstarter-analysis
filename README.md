@@ -16,7 +16,7 @@ Provide data analysis for upcoming Kickstarter project. Client wants to consider
 - X-axis is month of Kickstarter Launch
 
 ### Analysis of Outcomes Based on Goals
-![Theater Outcomes vs Goals](https://github.com/sjmisina/module1/blob/main/Outcomes_vs_Goals.png)
+![Theater Outcomes vs Goals](Outcomes_vs_Goals.png)
 - Y-axis is percentage of successful, Failed, and Canceled Kickstarter projects of total projects in available date range
 - X-axis illustrates the different tiers of the goal set for the kickstarter projects
 
