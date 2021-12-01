@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
-Systems Used: <i><code> Microsoft Excel </i> </code> <br />
+Systems Used: <i><code> Microsoft Excel </i></code><br />
 Data Source Provided: <i><code> Kickstarter provided cvs </code></i>
 
 ## Overview of Project
