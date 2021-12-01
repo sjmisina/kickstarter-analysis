@@ -1,4 +1,7 @@
 # Kickstarting with Excel
+Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
+Systems Used: <i><code> Microsoft Excel </i> </code> <br />
+Data Source Provided: <i><code> Kickstarter provided cvs </code></i>
 
 ## Overview of Project
 Client is considering Kickstarter to fund an upcoming theatrical play. Based on key data provided by Kickstarter, analysis needs to be performed to help identify the project's best chance at success.
@@ -29,5 +32,3 @@ Provide data analysis for upcoming Kickstarter project. Client wants to consider
 - Alternative months that could be considered for considerable success rates are projects launched in June and July
 - Success rates are stongest for projects with a goal of raising less than $5000
 - Although there are strong success rates found between $35,000 and $45,000, the sample size is very small, so not considered a reliable trend
-
-###
